@@ -1,0 +1,20 @@
+name: optic3
+id: ari:cloud:compass:198ccaf8-7a37-47a5-a38d-b4db11471c99:component/31d3b0c9-a103-406b-8973-d6f2a860b760/f68b58db-ef7d-4ad5-bfa2-f7fca89d2df3
+description: optic 3
+configVersion: 1
+typeId: SERVICE
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/mabraham89/optic3
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields:
+  - name: Dragonslayer custom field
+    type: text
+    value: null
